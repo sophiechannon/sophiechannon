@@ -3,10 +3,18 @@
 <div>
   <a href="https://linkedin.com/in/sophiechannon"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/sophiechannon/CV"><img src="https://img.shields.io/badge/Github CV-4B4B4B?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.codewars.com/users/sophiechannon"><img src="https://img.shields.io/badge/Codewars-a83232?style=for-the-badge&logo=codewars&logoColor=white"></a>
 </div>
 
-Junior Software Engineer with a background in fundraising project management in the arts and charity sector. I want to work in tech and use my experience in one of the most socially progressive industries to help make the world a better place.
+I am a career changer Junior Software Engineer with a background the arts sector. I recently spent and amazing 16 weeks on the Makers Academy software engineering bootcamp learning to be a full stack engineer. In 16 weeks I went from knowing some basic Ruby and JavaScript, to conceptualising and delivering a full stack, test driven, React website, using multiple APIs. Along the way I learnt a lot about working in a team, leadership, pair programming and being patient.
 
+My career in the arts and charitable sectors so far has revolved around fundraising and relationship building. I loved working in the industry and doing work that helped people, however, as I learnt more about myself, I realised that I craved a career that would enable me to problem solve, apply logical and pragmatic thinking, and make cool things.
+
+Outside of work, I am a musician and lead the viola section in the Cambridge Philharmonic Orchestra. I'm also really into running, stand up paddle boarding, and going on aimless rambles by myself. I practice yoga and meditation, and love being outdoors. I also run a small macrame tapestry business, [Macramazing](https://macramazing.co.uk)!
+
+_Check out my full CV_
+
+<a href="https://github.com/sophiechannon/CV"><img src="https://img.shields.io/badge/Github CV-4B4B4B?style=for-the-badge&logo=github&logoColor=white"></a> 
 
 <p><br>
 <div align="center">
@@ -37,18 +45,6 @@ Junior Software Engineer with a background in fundraising project management in 
 ⚡ Fun fact: I studied music at University and I play the violin</br>
 
   </div>
-
-## Training
-
-### Makers Academy, Software Engineering (Apr-22 to Aug-22)
-
-Intensive engineering bootcamp focusing on full stack development. I have also developed skills in:
-
-- Pair programming
-- Test Driven Development
-- Code Review
-- Group project working
-- Mentoring (I have two mentees from another cohort)
 
 
 
