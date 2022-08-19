@@ -37,11 +37,14 @@ _Check out my full CV_
 
   <img src="https://img.shields.io/badge/-HTML-FF5733?style=for-the-badge&logo=html5&logoColor=FF5733&labelColor=282828">
   <img src="https://img.shields.io/badge/-CSS-559DFF?style=for-the-badge&logo=css3&logoColor=559DFF&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Heroku-310161?style=for-the-badge&logo=heroku&logoColor=310161&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Heroku-310161?style=for-the-badge&logo=heroku&logoColor=310161&labelColor=282828"></br>
+
+  <img src="https://img.shields.io/badge/-Kotlin-664ACC?style=for-the-badge&logo=kotlin&logoColor=664ACC&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Java-f89820?style=for-the-badge&logo=coffeescript&logoColor=282828&labelColor=282828">
   </p></br>
 
 🔭 I’m currently working on building a Twitter clone in Rails</br>
-🌱 I’m currently learning Dutch</br>
+🌱 I’m currently learning Kotlin, Java, and Dutch</br>
 ⚡ Fun fact: I studied music at University and I play the violin</br>
 
   </div>
