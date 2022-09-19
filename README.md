@@ -42,11 +42,6 @@ _Check out my full CV_
   <img src="https://img.shields.io/badge/-Kotlin-664ACC?style=for-the-badge&logo=kotlin&logoColor=664ACC&labelColor=282828">
   <img src="https://img.shields.io/badge/-Java-f89820?style=for-the-badge&logo=coffeescript&logoColor=282828&labelColor=282828">
   </p></br>
-
-🔭 I’m currently working on building a Twitter clone in Rails</br>
-🌱 I’m currently learning Kotlin, Java, and Dutch</br>
-⚡ Fun fact: I studied music at University and I play the violin</br>
-
   </div>
 
 
