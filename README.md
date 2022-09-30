@@ -1,20 +1,9 @@
-### Sophie Channnon
-
-<div>
+<div align="center">
   <a href="https://linkedin.com/in/sophiechannon"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/sophiechannon/CV"><img src="https://img.shields.io/badge/Github CV-4B4B4B?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.codewars.com/users/sophiechannon"><img src="https://img.shields.io/badge/Codewars-a83232?style=for-the-badge&logo=codewars&logoColor=white"></a>
 </div>
 
-I am a career changer Junior Software Engineer with a background in the arts sector. I recently spent an amazing 16 weeks on the Makers Academy software engineering bootcamp learning to be a full stack engineer. In those 16 weeks I went from knowing some basic Ruby and JavaScript, to conceptualising and delivering a full stack, test driven, React website, using multiple APIs and working in a team.
-
-My career in the arts and charitable sectors has revolved around fundraising and relationship building. I loved working in the industry and doing work that helped people, however, as I learnt more about myself, I realised that I craved a career that would enable me to problem solve, apply logical and pragmatic thinking, and make cool things.
-
-Outside of work, I am a musician and co-lead the viola section of the Cambridge Philharmonic Orchestra. I'm also really into running, stand up paddle boarding, and going on aimless rambles by myself. I practice yoga and meditation, and love being outdoors. I also run a small macrame tapestry business, Macramazing!
-
-_Check out my full CV_
-
-<a href="https://github.com/sophiechannon/CV"><img src="https://img.shields.io/badge/Github CV-4B4B4B?style=for-the-badge&logo=github&logoColor=white"></a> 
 
 <p><br>
 <div align="center">
